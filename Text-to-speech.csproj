@@ -6,4 +6,8 @@
     <RootNamespace>Text_to_speech</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Microsoft.CognitiveServices.Speech" Version="1.16.0" />
+  </ItemGroup>
+
 </Project>

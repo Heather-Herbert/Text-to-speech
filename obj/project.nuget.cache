@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "PAYY22SfqtGZL24sDSliFN1ECooRgrAH38flkeMidWhMv7vI4Dy7ykAr94bdgkiREu+Qo65dF36daV9fqzbQxQ==",
+  "dgSpecHash": "5VdaKkVEQLmFI+x7h8qBzlWfI3P9GnDvCPqbZb9XtUbxadndBuqsUQS4D28aFc1hM6NQouSmyOnhqZ9hMAn0CQ==",
   "success": true,
   "projectFilePath": "/media/heather/Work/home/Repos/Text-to-speech/Text-to-speech.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/heather/.nuget/packages/microsoft.cognitiveservices.speech/1.16.0/microsoft.cognitiveservices.speech.1.16.0.nupkg.sha512"
+  ],
   "logs": []
 }
